@@ -1,0 +1,24 @@
+1. intro
+- introduce the problems
+- view solution
+- what's the project
+- primary goals
+	- detect and tracking balls and players
+	- calculate ball possession.
+        - website which we can upload match video and represent 
+          the results 
+- addition goals
+	- offside detection.
+	- pridect second match using first match data.	
+
+2. body
+        - Agile workflow.
+        - Time plan (screen shot from MS project).
+        - Role of each team member.
+		-Abdelhady Saeed (Computer vision, Back-End, Data Analysis).
+		-Abdulrahman Nageh (Computer vision,Data Analysis).
+		-Abdelmageed Mohamed (UI, Back-End).
+		-Alaa Ahmed Nabil (UI Design, Computer vision).-Ali Zakaria Ibrahem (UI, Back-End, Computer vision).
+		-Ali Mohamed Ahmed (Data Analysis,Computer vision).
+		
+3. outro
